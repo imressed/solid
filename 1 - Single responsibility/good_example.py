@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
 __author__ = 'imressed'
+"""
+Each class should solve one concrete task! No more, no less.
+"""
 
 
 class Order:
