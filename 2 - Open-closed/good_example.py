@@ -20,6 +20,7 @@ class OrderRepository:
 
 
 class OrderSource:
+    """Interface for Source"""
     def load(self):
         pass
 
